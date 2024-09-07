@@ -143,12 +143,10 @@ computational task:
 
 ```
 Calling Rust fibonacci function from Python
-Rust time: 0.05 seconds
-
+Rust time: 0.35816025733947754
 Calling Python fibonacci function from Python
-Python time: 1.25 seconds
-
-Rust is faster than Python by a factor of 25 times.
+Python time: 6.149831533432007
+Rust is faster than Python about 17.0 times.
 ```
 
 ## Why Use Rust in Python?
